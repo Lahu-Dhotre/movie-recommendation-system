@@ -1,0 +1,75 @@
+.login-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80') center center/cover no-repeat, #000;
+  background-blend-mode: darken;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-container {
+  background: rgba(20, 20, 20, 0.92);
+  padding: 2.5rem 2.5rem 2rem 2.5rem;
+  border-radius: 1.2rem;
+  box-shadow: 0 8px 32px 0 #e5091444, 0 2px 8px 0 #000a;
+  min-width: 340px;
+  max-width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login-logo {
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: #e50914;
+  letter-spacing: 2px;
+  margin-bottom: 1.5rem;
+  font-family: 'Bebas Neue', 'Arial Black', Arial, sans-serif;
+}
+.login-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.login-form h2 {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+  text-align: left;
+}
+.login-form input {
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.9rem 1rem;
+  margin-bottom: 1.1rem;
+  font-size: 1rem;
+  outline: none;
+  box-shadow: 0 2px 8px #000a;
+}
+.login-form input:focus {
+  border: 2px solid #e50914;
+}
+.login-btn {
+  background: #e50914;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.9rem 1rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  box-shadow: 0 2px 8px #e5091444;
+}
+.login-btn:hover {
+  background: #b0060f;
+}

@@ -1,0 +1,266 @@
+2025-11-23 04:33:19,810 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:33:19,813 - INFO - User index in train_matrix: 10
+2025-11-23 04:33:19,834 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:33:19,841 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:33:19,842 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:37:39,975 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:37:39,976 - INFO - User index in train_matrix: 10
+2025-11-23 04:37:40,040 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:37:40,049 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:37:40,050 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:38:01,656 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:38:01,664 - INFO - User index in train_matrix: 10
+2025-11-23 04:38:01,693 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:38:01,696 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:38:01,696 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:39:48,147 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:39:48,149 - INFO - User index in train_matrix: 10
+2025-11-23 04:39:48,157 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:39:48,159 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:39:48,160 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:41:51,812 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:41:51,818 - INFO - User index in train_matrix: 10
+2025-11-23 04:41:51,865 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:41:51,869 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:41:51,870 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:45:37,001 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:45:37,004 - INFO - User index in train_matrix: 10
+2025-11-23 04:45:37,023 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:45:37,024 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:45:37,025 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:45:53,659 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:45:53,660 - INFO - User index in train_matrix: 10
+2025-11-23 04:45:53,686 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:45:53,687 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:45:53,688 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:45:56,934 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:45:56,942 - INFO - User index in train_matrix: 10
+2025-11-23 04:45:56,966 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:45:56,968 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:45:56,968 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:48:07,511 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:48:07,512 - INFO - User index in train_matrix: 10
+2025-11-23 04:48:07,525 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:48:07,526 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:48:07,527 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:50:48,630 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:50:48,631 - INFO - User index in train_matrix: 10
+2025-11-23 04:50:48,647 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:50:48,648 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:50:48,649 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:51:12,477 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:51:12,478 - INFO - User index in train_matrix: 10
+2025-11-23 04:51:12,485 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:51:12,486 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:51:12,487 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:51:28,040 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:51:28,041 - INFO - User index in train_matrix: 10
+2025-11-23 04:51:28,051 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:51:28,051 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:51:28,052 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:51:37,332 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:51:37,333 - INFO - User index in train_matrix: 10
+2025-11-23 04:51:37,340 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:51:37,341 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:51:37,341 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:52:08,452 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:52:08,468 - INFO - User index in train_matrix: 10
+2025-11-23 04:52:08,508 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:52:08,514 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:52:08,515 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:55:37,085 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:55:37,086 - INFO - User index in train_matrix: 10
+2025-11-23 04:55:37,099 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:55:37,101 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:55:37,102 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:56:50,385 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:56:50,386 - INFO - User index in train_matrix: 10
+2025-11-23 04:56:50,402 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:56:50,404 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:56:50,404 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:56:55,122 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:56:55,127 - INFO - User index in train_matrix: 10
+2025-11-23 04:56:55,140 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:56:55,141 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:56:55,142 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:58:31,686 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:58:31,687 - INFO - User index in train_matrix: 10
+2025-11-23 04:58:31,702 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:58:31,705 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:58:31,705 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 04:59:18,082 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 04:59:18,083 - INFO - User index in train_matrix: 10
+2025-11-23 04:59:18,096 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:59:18,097 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 04:59:18,097 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:00:34,061 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:00:34,063 - INFO - User index in train_matrix: 10
+2025-11-23 05:00:34,080 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:00:34,083 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:00:34,085 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:02:26,973 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:02:26,974 - INFO - User index in train_matrix: 10
+2025-11-23 05:02:26,981 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:02:26,987 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:02:26,990 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:02:42,466 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:02:42,467 - INFO - User index in train_matrix: 10
+2025-11-23 05:02:42,473 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:02:42,475 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:02:42,478 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:02:55,709 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:02:55,709 - INFO - User index in train_matrix: 10
+2025-11-23 05:02:55,715 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:02:55,716 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:02:55,717 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:03:16,784 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:03:16,785 - INFO - User index in train_matrix: 10
+2025-11-23 05:03:16,792 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:03:16,792 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:03:16,793 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:03:21,603 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:03:21,605 - INFO - User index in train_matrix: 10
+2025-11-23 05:03:21,621 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:03:21,622 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:03:21,623 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:03:34,252 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:03:34,253 - INFO - User index in train_matrix: 10
+2025-11-23 05:03:34,261 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:03:34,263 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:03:34,266 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:06:05,094 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:06:05,168 - INFO - User index in train_matrix: 10
+2025-11-23 05:06:05,224 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:06:05,225 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:06:05,226 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:07:30,031 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:07:30,032 - INFO - User index in train_matrix: 10
+2025-11-23 05:07:30,042 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:07:30,046 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:07:30,047 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:07:39,005 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:07:39,005 - INFO - User index in train_matrix: 10
+2025-11-23 05:07:39,011 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:07:39,011 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:07:39,013 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:09:17,726 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:09:17,727 - INFO - User index in train_matrix: 10
+2025-11-23 05:09:17,736 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:09:17,738 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:09:17,739 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:11:55,811 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:11:55,812 - INFO - User index in train_matrix: 10
+2025-11-23 05:11:55,822 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:11:55,824 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:11:55,825 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:12:10,838 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:12:10,841 - INFO - User index in train_matrix: 10
+2025-11-23 05:12:10,849 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:12:10,850 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:12:10,850 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:12:37,354 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:12:37,355 - INFO - User index in train_matrix: 10
+2025-11-23 05:12:37,363 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:12:37,364 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:12:37,366 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:12:47,499 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:12:47,502 - INFO - User index in train_matrix: 10
+2025-11-23 05:12:47,526 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:12:47,529 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:12:47,531 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:14:12,043 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:14:12,044 - INFO - User index in train_matrix: 10
+2025-11-23 05:14:12,052 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:14:12,052 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:14:12,053 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:14:57,716 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:14:57,717 - INFO - User index in train_matrix: 10
+2025-11-23 05:14:57,724 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:14:57,725 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:14:57,726 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:15:29,159 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:15:29,160 - INFO - User index in train_matrix: 10
+2025-11-23 05:15:29,168 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:15:29,169 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:15:29,170 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]
+2025-11-23 05:15:35,132 - INFO - User data from database: [(10, 2.0), (15, 2.0), (14, 2.0)]
+2025-11-23 05:15:35,134 - INFO - User index in train_matrix: 10
+2025-11-23 05:15:35,146 - INFO - Predicted ratings before exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:15:35,149 - INFO - Predicted ratings after exclusion: [2.01975231e+00 5.78638641e-01 3.58983498e-01 ... 1.29300060e-03
+ 6.26990867e-03 6.04221325e-03]
+2025-11-23 05:15:35,150 - INFO - Recommended movie IDs: [50, 181, 174, 1, 172]

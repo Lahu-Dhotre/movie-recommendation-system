@@ -1,0 +1,13 @@
+<div class="profile-bg">
+  <div class="profile-container">
+    <h2 class="profile-title">Who's watching?</h2>
+    <div class="profile-list">
+      <div class="profile-card" *ngFor="let user of users" (click)="selectUser(user)">
+        <div class="profile-avatar">
+          <img [src]="user.img" [alt]="user.name" />
+        </div>
+        <div class="profile-name">{{ user.name }}</div>
+      </div>
+    </div>
+  </div>
+</div>

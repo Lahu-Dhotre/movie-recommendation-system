@@ -1,0 +1,461 @@
+// Rating icons styles
+.movie-rating-icons {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.rating-icon {
+  color: #bbb;
+  font-size: 1.5rem;
+  transition: color 0.2s, transform 0.2s;
+  background: transparent;
+}
+.rating-icon.selected {
+  color: #e50914;
+  transform: scale(1.2);
+}
+.rating-icon[title="Love it"].selected {
+  color: #e50914;
+}
+.rating-icon[title="Like it"].selected {
+  color: #21d07a;
+}
+.rating-icon[title="Not for me"].selected {
+  color: #aaa;
+  opacity: 0.7;
+}
+.rating-icon:hover {
+  color: #fff;
+  transform: scale(1.1);
+}
+// Make MJ red
+.mj-red {
+  color: #e50914;
+  font-size: 2.8rem;
+  font-weight: 900;
+  font-family: 'Bebas Neue', 'Arial Black', Arial, sans-serif;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 8px #000a, 0 2px 8px #e5091444;
+  padding-right: 12px;
+  text-transform: uppercase;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #e50914 60%, #b0060f 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+// Login Page Styles
+.login-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url('/assets/netflix-bg.jpg') center center/cover no-repeat, #000;
+  background-blend-mode: darken;
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-container {
+  background: rgba(20, 20, 20, 0.92);
+  padding: 2.5rem 2.5rem 2rem 2.5rem;
+  border-radius: 1.2rem;
+  box-shadow: 0 8px 32px 0 #e5091444, 0 2px 8px 0 #000a;
+  min-width: 340px;
+  max-width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.login-logo {
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: #e50914;
+  letter-spacing: 2px;
+  margin-bottom: 1.5rem;
+  font-family: 'Bebas Neue', 'Arial Black', Arial, sans-serif;
+}
+.login-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.login-form h2 {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 1.2rem;
+  text-align: left;
+}
+.login-form input {
+  background: #333;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.9rem 1rem;
+  margin-bottom: 1.1rem;
+  font-size: 1rem;
+  outline: none;
+  box-shadow: 0 2px 8px #000a;
+}
+.login-form input:focus {
+  border: 2px solid #e50914;
+}
+.login-btn {
+  background: #e50914;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.9rem 1rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  box-shadow: 0 2px 8px #e5091444;
+}
+.login-btn:hover {
+  background: #b0060f;
+}
+.play-btn-inline {
+  margin-left: 10px;
+  background: #e50914 !important;
+  color: #fff !important;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px #000a;
+  width: 36px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, transform 0.2s;
+  font-size: 1.1rem;
+}
+.play-btn-inline:hover {
+  background: #b0060f !important;
+  transform: scale(1.1);
+}
+
+.watched-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+.watched-popup-content {
+  background: #181818;
+  color: #fff;
+  padding: 2rem 2.5rem;
+  border-radius: 1.2rem;
+  box-shadow: 0 8px 32px 0 #e5091444, 0 2px 8px 0 #000a;
+  text-align: center;
+  position: relative;
+  min-width: 260px;
+}
+.close-btn {
+  position: absolute;
+  top: 0.7rem;
+  right: 1.2rem;
+  font-size: 2rem;
+  color: #fff;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.close-btn:hover {
+  color: #e50914;
+}
+.play-btn mat-icon {
+  font-size: 1.6rem !important;
+  width: 1.6rem;
+  height: 1.6rem;
+  line-height: 1.6rem;
+}
+.poster-img-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.poster-img-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.2s;
+}
+.poster-hover-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(20,20,20,0.92);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+  z-index: 2;
+}
+.poster-img-wrapper:hover .poster-hover-overlay,
+.poster-img-wrapper:focus-within .poster-hover-overlay {
+  opacity: 1;
+  pointer-events: auto;
+}
+/* Keep the image visible on hover, just darken it */
+.poster-img-wrapper:hover img,
+.poster-img-wrapper:focus-within img {
+  opacity: 1;
+  filter: brightness(0.3);
+}
+.play-btn {
+  opacity: 1;
+  pointer-events: auto;
+  position: static;
+  background: #e50914 !important;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px #000a;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s, transform 0.2s;
+}
+.play-btn:hover {
+  background: #b0060f !important;
+  transform: scale(1.1);
+}
+/* filepath: c:\Users\mukil\movie_recommendation_system\movie_recommendation_system\frontend\movie-app\src\app\features\movies\movie-list\movie-list.component.scss */
+:host {
+  display: block;
+  background: #141414;
+  min-height: 100vh;
+  color: #fff;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+// Sign out button styles
+.signout-btn {
+  position: absolute;
+  top: 24px;
+  right: 32px;
+  background: #e50914;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 8px #e5091444;
+  transition: background 0.2s;
+  z-index: 10;
+}
+.signout-btn:hover {
+  background: #b0060f;
+}
+
+.netflix-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #141414; /* Match the main background color */
+  padding: 16px 0;
+  color: #fff; /* Ensure text is white for consistency */
+  box-shadow: 0 2px 8px #000a;
+}
+
+.netflix-logo {
+  color: #e50914;
+  font-size: 2.6rem;
+  font-family: 'Arial Black', Arial, sans-serif;
+  margin-right: 12px;
+  letter-spacing: 0;
+}
+
+.netflix-title {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.movie-section-title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin: 32px 0 16px 32px;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 180px;
+}
+
+.movie-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 32px 24px;
+  padding: 0 32px 32px 32px;
+}
+
+.movie-card {
+  background: #222;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.7);
+  transition: transform 0.2s, box-shadow 0.2s;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+
+  &:hover {
+    transform: scale(1.04);
+    box-shadow: 0 8px 32px 0 #e50914cc;
+    z-index: 2;
+  }
+}
+
+.poster-container {
+  position: relative;
+  width: 100%;
+  height: 220px;
+  background: #111;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.poster-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-bottom: 2px solid #e50914;
+  transition: filter 0.2s;
+}
+
+.legend-badge {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  background: #e50914;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 4px 16px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px #000a;
+  letter-spacing: 1px;
+  z-index: 2;
+}
+
+.play-btn {
+  position: absolute;
+  right: 16px;
+  bottom: 12px;
+  background: rgba(20,20,20,0.85);
+  border-radius: 50%;
+  box-shadow: 0 2px 8px #000a;
+  z-index: 2;
+  transition: background 0.2s, transform 0.2s, opacity 0.2s;
+  opacity: 0;
+  pointer-events: none;
+}
+.poster-container:hover .play-btn,
+.poster-container:focus-within .play-btn {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.movie-info {
+  padding: 18px 16px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.movie-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 2px;
+  letter-spacing: 0.5px;
+  text-shadow: 0 2px 8px #000a;
+}
+
+.movie-genres {
+  font-size: 0.98rem;
+  color: #b3b3b3;
+  margin-bottom: 2px;
+}
+
+.movie-overview {
+  font-size: 1.05rem;
+  color: #e5e5e5;
+  margin-bottom: 8px;
+  min-height: 48px;
+  max-height: 60px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.rating-badge {
+  align-self: flex-start;
+  background: #222;
+  color: #ffd700;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 2px 12px;
+  border-radius: 12px;
+  border: 1.5px solid #e50914;
+  margin-top: 4px;
+  box-shadow: 0 1px 4px #000a;
+}
+
+@media (max-width: 900px) {
+  .movie-row {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 24px 12px;
+    padding: 0 12px 24px 12px;
+  }
+  .poster-container {
+    height: 160px;
+  }
+}
+
+@media (max-width: 600px) {
+  .netflix-header {
+    font-size: 1.2rem;
+    padding: 16px 0 8px 12px;
+  }
+  .movie-section-title {
+    font-size: 1.1rem;
+    margin: 18px 0 10px 12px;
+  }
+  .movie-row {
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 14px 6px;
+    padding: 0 4px 12px 4px;
+  }
+  .poster-container {
+    height: 100px;
+  }
+}
