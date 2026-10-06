@@ -177,10 +177,6 @@ Then open the browser at:
 - Recommended model files and database data must be present for the recommendation engine to function correctly.
 - The project includes a Jupyter notebook (`backend/app/recommender.ipynb`) for experimentation and model-related work.
 
-## License
-
-This project does not currently declare a specific license in the repository. If you plan to distribute or reuse it, confirm the license before publishing.
-
 ## Contributing
 
 Contributions are welcome. To contribute:
